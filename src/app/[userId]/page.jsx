@@ -26,7 +26,7 @@ const Page = ({ params }) => {
       {usedata.map((data, index) => (
         <div
           key={index}
-          className="flex flex-col justify-between items-center h-[93%] "
+          className="flex flex-col justify-between items-center h-[85%] "
         >
           <div className=" flex flex-col justify-center items-center py-3 gap-4">
             <div className="relative size-72">
